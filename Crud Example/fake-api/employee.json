@@ -1,0 +1,22 @@
+{
+  "emplooyes": [
+    {
+      "name": "asd",
+      "departmant": "asd",
+      "salary": null,
+      "id": 1
+    },
+    {
+      "name": "ismail AKCA",
+      "department": "undefined",
+      "salary": 400055,
+      "id": 2
+    },
+    {
+      "name": "Ves",
+      "departmant": "asd",
+      "salary": 10000000,
+      "id": 3
+    }
+  ]
+}
